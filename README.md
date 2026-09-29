@@ -64,3 +64,20 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<img width="1896" height="845" alt="mind1" src="https://github.com/user-attachments/assets/e59ced41-b970-4b53-86e2-f2240c7f04cc" />
+<img width="1900" height="892" alt="mind2" src="https://github.com/user-attachments/assets/6a34b011-362b-4bfa-9b4d-3876aad26ec8" />
+<img width="1892" height="897" alt="mind3" src="https://github.com/user-attachments/assets/d68376a9-90f6-45fd-92e1-8d6a4d25f5e0" />
+<img width="1889" height="926" alt="mind4" src="https://github.com/user-attachments/assets/0678b53c-7794-4747-977b-e0f7c26e1aa2" />
+<img width="1891" height="905" alt="mind5" src="https://github.com/user-attachments/assets/13113b96-7379-442c-b5c3-321e8980fa84" />
+<img width="1867" height="944" alt="mind6" src="https://github.com/user-attachments/assets/b8687a83-153c-47b5-a680-47b420202743" />
+<img width="1885" height="948" alt="mind7" src="https://github.com/user-attachments/assets/188ed547-417b-4525-b10e-7bf396c0846f" />
+
+
+
+
+
+
+
+ 
+
+
